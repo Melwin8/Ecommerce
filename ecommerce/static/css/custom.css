@@ -1,0 +1,16 @@
+body{
+background-color: rgb(255, 204, 102);
+font-family: 'Roboto Mono', monospace;
+}
+
+.navbar-light .navbar-brand,.navbar-light .navbar-nav .nav-link {
+    color:#ffffff ;
+}
+.bg-light{
+background-color:#b8b894!important;
+}
+.btn-outline-success {
+    color: rgb(255, 255, 255);
+    border-color:rgb(255, 255, 255) ;
+}
+
